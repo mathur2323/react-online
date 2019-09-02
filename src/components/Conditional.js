@@ -11,7 +11,6 @@ class Conditional extends Component {
         }
     }
 
-
     // signin = ()=>{
     //     this.setState({
     //         isLoggedIn:true
